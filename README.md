@@ -6,10 +6,10 @@
 
 取材自以下資源
 --------
-ProjectPatternStudy
+ProjectPatternStudy                    
 https://github.com/youlookwhat/ProjectPatternStudy                                                     
                   
-爆料公社
+爆料公社                                        
 https://play.google.com/store/apps/details?id=com.bc3ts.baoliao
                   
 預覽
